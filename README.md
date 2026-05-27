@@ -14,7 +14,7 @@ On May 20, 2026, the organization's internal network experienced a DoS attack la
 
 
 ## 📄 Full Report
-<a href="NIST-CSF-Incident-Report/NIST-CSF.pdf" target="_blank">View the Full Incident Report (PDF)</a>
+<a href="NIST-CSF.pdf" target="_blank">View the Full Incident Report (PDF)</a>
 
 
 ---
