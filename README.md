@@ -14,7 +14,6 @@ On May 20, 2026, the organization's internal network experienced a DoS attack la
 
 
 ## 📄 Full Report
-
-
+*{View the full incident Report](NIST-CSF.pdf)
 ---
 *Note: This is a simulated scenario completed as part of the Google Cybersecurity Professional Certificate, updated to reflect current enterprise reporting standards.*
